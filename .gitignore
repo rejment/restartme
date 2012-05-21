@@ -1,4 +1,4 @@
-
+﻿
 #################
 ## Eclipse
 #################
@@ -6,6 +6,9 @@
 *.pydevproject
 .project
 .metadata
+doc/**
+release/**
+*.iws
 bin/**
 tmp/**
 tmp/**/*
