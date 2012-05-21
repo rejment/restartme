@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nativeclient", "nativeclient.vcproj", "{C3BDB41E-DE75-4429-821F-DCE29798E0EB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C3BDB41E-DE75-4429-821F-DCE29798E0EB}.Debug.ActiveCfg = Debug|Win32
+		{C3BDB41E-DE75-4429-821F-DCE29798E0EB}.Debug.Build.0 = Debug|Win32
+		{C3BDB41E-DE75-4429-821F-DCE29798E0EB}.Release.ActiveCfg = Release|Win32
+		{C3BDB41E-DE75-4429-821F-DCE29798E0EB}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
